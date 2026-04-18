@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Butterfly",
-    "price": 400,
+    "price": 40,
     "size": "4\" × 4\"",
     "medium": "Acrylic on Canvas",
     "image": "images/butterfly.jpg",
@@ -12,8 +12,8 @@
   {
     "id": 2,
     "title": "Dancing Pony",
-    "price": 450,
-    "size": "24\" × 18\"",
+    "price": 125,
+    "size": "12\" × 9\"",
     "medium": "Acrylic on Canvas",
     "image": "images/dancing-pony.jpg",
     "available": true,
@@ -22,8 +22,8 @@
   {
     "id": 3,
     "title": "Dog",
-    "price": 500,
-    "size": "12\" × 12\"",
+    "price": 175,
+    "size": "10\" × 10\"",
     "medium": "Acrylic on Canvas",
     "image": "images/dog.jpg",
     "available": true,
@@ -32,8 +32,8 @@
   {
     "id": 4,
     "title": "Fish",
-    "price": 500,
-    "size": "6\" × 6\"",
+    "price": 40,
+    "size": "4\" × 4\"",
     "medium": "Acrylic on Canvas",
     "image": "images/fish.jpg",
     "available": true,
@@ -42,11 +42,41 @@
   {
     "id": 5,
     "title": "Lion",
-    "price": 500,
-    "size": "8\" × 10\"",
+    "price": 150,
+    "size": "10\" × 8\"",
     "medium": "Acrylic on Canvas",
     "image": "images/lion.jpg",
     "available": true,
     "featured": true
+  },
+  {
+    "id": 6,
+    "title": "Quail II",
+    "price": 60,
+    "size": "5\" x 5\"",
+    "medium": "Acrylic on Canvas",
+    "image": "images/quail-ii.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 7,
+    "title": "Tortuga",
+    "price": 60,
+    "size": "5\" x 5\"",
+    "medium": "Acrylic on Canvas",
+    "image": "images/tortuga.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "Sugar Skull II",
+    "price": 60,
+    "size": "4\" x 4\"",
+    "medium": "Acrylic on Canvas",
+    "image": "images/sugar-skull-ii.jpg",
+    "available": true,
+    "featured": false
   }
 ]
