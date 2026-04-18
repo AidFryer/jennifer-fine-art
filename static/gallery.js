@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   let artworks = [];
   try {
-    const res = await fetch("artworks.json");
+    const res = await fetch("./artworks.json");
     artworks = await res.json();
   } catch (err) {
     gallery.innerHTML = `<p style="text-align:center;color:#888;padding:3rem;">Could not load artworks.</p>`;
