@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   let artworks = [];
   try {
-    const res = await fetch("./artworks.json");
+    const res = await fetch("artworks.json");
     artworks = await res.json();
   } catch (err) {
     gallery.innerHTML = `<p style="text-align:center;color:#888;padding:3rem;">Could not load artworks.</p>`;
@@ -32,51 +32,6 @@ document.addEventListener("DOMContentLoaded", async () => {
   });
 });
 
-// Old hardcoded version below (kept for reference, not used)
-function _unused() {
-  const artworks = [
-    {
-      title: "Butterfly",
-      price: "$400",
-      size: '4" × 4"',
-      medium: "Acrylic on Canvas",
-      image: "images/butterfly.jpg",
-      available: true,
-    },
-    {
-      title: "Dancing Pony",
-      price: "$450",
-      size: '24" × 18"',
-      medium: "Acrylic on Canvas",
-      image: "images/dancing-pony.jpg",
-      available: true,
-    },
-    {
-      title: "Dog",
-      price: "$500",
-      size: '12" × 12"',
-      medium: "Acrylic on Canvas",
-      image: "images/dog.jpg",
-      available: true,
-    },
-    {
-      title: "Fish",
-      price: "$500",
-      size: '6" × 6"',
-      medium: "Acrylic on Canvas",
-      image: "images/fish.jpg",
-      available: true,
-    },
-    {
-      title: "Lion",
-      price: "$500",
-      size: '8" × 10"',
-      medium: "Acrylic on Canvas",
-      image: "images/lion.jpg",
-      available: true,
-    },
-  ];
-
   const gallery = document.getElementById("gallery");
   if (!gallery) return;
 
@@ -99,4 +54,3 @@ function _unused() {
     `;
     gallery.appendChild(card);
   });
-});
