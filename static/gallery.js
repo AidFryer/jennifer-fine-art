@@ -20,10 +20,10 @@ document.addEventListener("DOMContentLoaded", async () => {
       </div>
       <div class="info">
         <h2>${art.title}</h2>
-        <p>$${art.price.toLocaleString()} &mdash; ${art.size}</p>
-        <p style="opacity:0.75;font-size:0.8em;">${art.medium}</p>
+        <p>${art.medium} &nbsp;&middot;&nbsp; ${art.size}</p>
+        <p class="price">$${art.price.toLocaleString()}</p>
         ${art.available
-          ? `<a href="mailto:jennifer@example.com?subject=Inquiry: ${encodeURIComponent(art.title)}" class="btn btn-primary" style="margin-top:0.75em;display:inline-block;font-size:0.8em;padding:0.5em 1.2em;">Inquire</a>`
+          ? `<a href="mailto:jennifer@example.com?subject=Inquiry: ${encodeURIComponent(art.title)}" class="inquire-link">Inquire about this piece</a>`
           : `<span class="badge-sold">Sold</span>`
         }
       </div>
