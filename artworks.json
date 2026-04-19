@@ -78,5 +78,235 @@
     "image": "images/sugar-skull-ii.jpg",
     "available": true,
     "featured": false
+  },
+  {
+    "id": 9,
+    "title": "Flying Pig",
+    "price": 150,
+    "size": "8 x 10",
+    "medium": "Acrylic on Canvas",
+    "image": "images/flying-pig.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 10,
+    "title": "Jackalope",
+    "price": 450,
+    "size": "24 x 18",
+    "medium": "Acrylic on Canvas",
+    "image": "images/jackalope.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 11,
+    "title": "Armadillo",
+    "price": 900,
+    "size": "24 x 36",
+    "medium": "Acrylic on Canvas",
+    "image": "images/armadillo.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 12,
+    "title": "Big Horn Sheep",
+    "price": 325,
+    "size": "14 x 14",
+    "medium": "Acrylic on Canvas",
+    "image": "images/big-horn-sheep.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 13,
+    "title": "Arizona Scene",
+    "price": 450,
+    "size": "24 x 18",
+    "medium": "Acrylic on Canvas",
+    "image": "images/arizona-scene.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 14,
+    "title": "Sugar Skull IV",
+    "price": 250,
+    "size": "10 x 10",
+    "medium": "Acrylic on Canvas",
+    "image": "images/sugar-skull-iv.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 15,
+    "title": "Longhorn III",
+    "price": 800,
+    "size": "24 x 30",
+    "medium": "Acrylic on Canvas",
+    "image": "images/longhorn-iii.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 16,
+    "title": "Roadrunner",
+    "price": 275,
+    "size": "10 x 20",
+    "medium": "Acrylic on Canvas",
+    "image": "images/roadrunner.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 17,
+    "title": "Happy Pig",
+    "price": 275,
+    "size": "11 x 14",
+    "medium": "Acrylic on Canvas",
+    "image": "images/happy-pig.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 18,
+    "title": "Lizard in a Tree",
+    "price": 750,
+    "size": "40 x 16",
+    "medium": "Acrylic on Canvas",
+    "image": "images/lizard-in-a-tree.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 19,
+    "title": "Horse",
+    "price": 225,
+    "size": "11 x 14",
+    "medium": "Acrylic on Canvas",
+    "image": "images/horse.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 20,
+    "title": "Elephant Face",
+    "price": 125,
+    "size": "8 x 8",
+    "medium": "Acrylic on Canvas",
+    "image": "images/elephant-face.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 21,
+    "title": "Rabbit",
+    "price": 125,
+    "size": "8 x 8",
+    "medium": "Acrylic on Canvas",
+    "image": "images/rabbit.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 22,
+    "title": "Longhorn",
+    "price": 275,
+    "size": "11 x 14",
+    "medium": "Acrylic on Canvas",
+    "image": "images/longhorn.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 23,
+    "title": "Two Fish in the Sea",
+    "price": 350,
+    "size": "20 x 20",
+    "medium": "Acrylic on Canvas",
+    "image": "images/two-fish-in-the-sea.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 24,
+    "title": "Southwestern Steer Skull",
+    "price": 150,
+    "size": "8 x 10",
+    "medium": "Acrylic on Canvas",
+    "image": "images/southwestern-steer-skull.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 25,
+    "title": "Deer Skull",
+    "price": 300,
+    "size": "11 x 14",
+    "medium": "Acrylic on Canvas",
+    "image": "images/deer-skull.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 26,
+    "title": "The Four Turtles",
+    "price": 450,
+    "size": "20 x 20",
+    "medium": "Acrylic on Canvas",
+    "image": "images/the-4-turtles.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 27,
+    "title": "Baby Horned Toad",
+    "price": 40,
+    "size": "4 x 4",
+    "medium": "Acrylic on Canvas",
+    "image": "images/baby-horned-toad.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 28,
+    "title": "Journey of the Fish",
+    "price": 325,
+    "size": "12 x 16",
+    "medium": "Acrylic on Canvas",
+    "image": "images/journey-of-the-fish.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 29,
+    "title": "Flying Rabbit II",
+    "price": 400,
+    "size": "16 x 20",
+    "medium": "Acrylic on Canvas",
+    "image": "images/flying-rabbit-ii.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 30,
+    "title": "Southwest Pottery",
+    "price": 275,
+    "size": "16 x 12",
+    "medium": "Acrylic on Canvas",
+    "image": "images/southwest-pottery.jpg",
+    "available": true,
+    "featured": false
+  },
+  {
+    "id": 31,
+    "title": "Orca Family",
+    "price": 3200,
+    "size": "48 x 60",
+    "medium": "Acrylic on Canvas",
+    "image": "images/orca-family.jpg",
+    "available": true,
+    "featured": true
   }
 ]
